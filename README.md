@@ -9,7 +9,13 @@
 
 ## 📦 Instalación
 
-No requiere instalación adicional. Asegurate de tener Python 3.
+Cloná el repositorio o descargá el script:
+
+```bash
+git clone https://github.com/SecurityLayer404/FTPmap
+```
+
+Asegurate de tener Python 3.
 
 ```bash
 python3 --version
